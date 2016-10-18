@@ -2,7 +2,7 @@
 
 ### Exercicio 1:  
 1. Crie um Array contendo o nome de 10 das suas bandas favoritas.  
-2. Liste utilizando o Console o nome de cada uma, para que liste da maneira:  
+2. Utilizando o *for* Liste utilizando o Console o nome de cada uma, para que liste da maneira:  
 **Banda 1 - Iron Maiden**  
 **Banda 2 - Nome da banda 2**
 
